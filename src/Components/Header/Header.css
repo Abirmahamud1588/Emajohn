@@ -1,0 +1,24 @@
+.header{
+    
+padding-left: 120px;
+padding-right:120px;
+padding-top: 20px;
+padding-bottom: 20px;
+    background: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+.menus a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 60px;
+    
+}
+.menus a:hover{
+    color: yellow;
+}
+
